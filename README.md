@@ -1,2 +1,2 @@
 # practice
-for test and practice
+$git--version
